@@ -1,0 +1,66 @@
+{
+    "assets": [
+        {
+            "_id": "69e8e1a347723886c7cb6868",
+            "type": "chr",
+            "asset": "rain"
+        },
+        {
+            "_id": "69e8e20947723886c7cb6869",
+            "type": "chr",
+            "asset": "sprite"
+        },
+        {
+            "_id": "69ea2300a43cd5d382c0801a",
+            "type": "chr",
+            "asset": "spider"
+        },
+        {
+            "_id": "69ea2309a43cd5d382c0801b",
+            "type": "chr",
+            "asset": "elderSprite"
+        },
+        {
+            "_id": "69ea230da43cd5d382c0801c",
+            "type": "prp",
+            "asset": "treeChasm"
+        },
+        {
+            "_id": "69ea2313a43cd5d382c0801d",
+            "type": "prp",
+            "asset": "pocketKnife"
+        },
+        {
+            "_id": "69ea231ca43cd5d382c0801e",
+            "type": "prp",
+            "asset": "logBridgeTrunk"
+        },
+        {
+            "_id": "69ea2320a43cd5d382c0801f",
+            "type": "prp",
+            "asset": "beerCanSixPack"
+        },
+        {
+            "_id": "69ea3ad992f61e4115dcd8ed",
+            "type": "prp",
+            "asset": "snacks"
+        },
+        {
+            "_id": "69ea3c187612b90e20cae897",
+            "type": "prp",
+            "asset": "trash"
+        }
+    ],
+    "shots": [
+        {
+            "_id": "69ea3d4e7612b90e20cae89a",
+            "sequence": "sq030",
+            "shot": "sh0060A"
+        },
+        {
+            "_id": "69ea3d527612b90e20cae89b",
+            "sequence": "sq150",
+            "shot": "sh0050A"
+        }
+    ]
+}
