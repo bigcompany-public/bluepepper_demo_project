@@ -1,56 +1,4 @@
 {
-    "assets": [
-        {
-            "_id": "69e8e1a347723886c7cb6868",
-            "type": "chr",
-            "asset": "rain"
-        },
-        {
-            "_id": "69e8e20947723886c7cb6869",
-            "type": "chr",
-            "asset": "sprite"
-        },
-        {
-            "_id": "69ea2300a43cd5d382c0801a",
-            "type": "chr",
-            "asset": "spider"
-        },
-        {
-            "_id": "69ea2309a43cd5d382c0801b",
-            "type": "chr",
-            "asset": "elderSprite"
-        },
-        {
-            "_id": "69ea230da43cd5d382c0801c",
-            "type": "prp",
-            "asset": "treeChasm"
-        },
-        {
-            "_id": "69ea2313a43cd5d382c0801d",
-            "type": "prp",
-            "asset": "pocketKnife"
-        },
-        {
-            "_id": "69ea231ca43cd5d382c0801e",
-            "type": "prp",
-            "asset": "logBridgeTrunk"
-        },
-        {
-            "_id": "69ea2320a43cd5d382c0801f",
-            "type": "prp",
-            "asset": "beerCanSixPack"
-        },
-        {
-            "_id": "69ea3ad992f61e4115dcd8ed",
-            "type": "prp",
-            "asset": "snacks"
-        },
-        {
-            "_id": "69ea3c187612b90e20cae897",
-            "type": "prp",
-            "asset": "trash"
-        }
-    ],
     "shots": [
         {
             "_id": "69ea3d4e7612b90e20cae89a",
@@ -60,7 +8,107 @@
         {
             "_id": "69ea3d527612b90e20cae89b",
             "sequence": "sq150",
-            "shot": "sh0050A"
+            "shot": "sh0050A",
+            "_tags": [
+                "dramatic"
+            ]
+        }
+    ],
+    "tags": [
+        {
+            "_id": "6a045f1d79ce415d4878e47e",
+            "tag": "sprite",
+            "tagCollection": "assets",
+            "tagColor": "#4FAB38",
+            "tagTextColor": "#FFFFFF",
+            "tagIcon": "fa6s.child",
+            "tagIconColor": "#FFFFFF"
+        },
+        {
+            "_id": "6a04601e79ce415d4878e47f",
+            "tag": "animal",
+            "tagCollection": "assets",
+            "tagColor": "#AB273F",
+            "tagTextColor": "#FFFFFF",
+            "tagIcon": "mdi6.cat",
+            "tagIconColor": "#FFFFFF"
+        },
+        {
+            "_id": "6a0461ce79ce415d4878e480",
+            "tag": "dramatic",
+            "tagCollection": "shots",
+            "tagColor": "#D9BC00",
+            "tagTextColor": "#151515",
+            "tagIcon": "fa6s.star",
+            "tagIconColor": "#151515"
+        }
+    ],
+    "assets": [
+        {
+            "_id": "69e8e1a347723886c7cb6868",
+            "type": "chr",
+            "asset": "rain",
+            "_tags": []
+        },
+        {
+            "_id": "69e8e20947723886c7cb6869",
+            "type": "chr",
+            "asset": "sprite",
+            "_tags": [
+                "sprite"
+            ]
+        },
+        {
+            "_id": "69ea2300a43cd5d382c0801a",
+            "type": "chr",
+            "asset": "spider",
+            "_tags": [
+                "animal"
+            ]
+        },
+        {
+            "_id": "69ea2309a43cd5d382c0801b",
+            "type": "chr",
+            "asset": "elderSprite",
+            "_tags": [
+                "sprite"
+            ]
+        },
+        {
+            "_id": "69ea230da43cd5d382c0801c",
+            "type": "prp",
+            "asset": "treeChasm",
+            "_tags": []
+        },
+        {
+            "_id": "69ea2313a43cd5d382c0801d",
+            "type": "prp",
+            "asset": "pocketKnife",
+            "_tags": []
+        },
+        {
+            "_id": "69ea231ca43cd5d382c0801e",
+            "type": "prp",
+            "asset": "logBridgeTrunk",
+            "_tags": []
+        },
+        {
+            "_id": "69ea2320a43cd5d382c0801f",
+            "type": "prp",
+            "asset": "beerCanSixPack",
+            "_tags": []
+        },
+        {
+            "_id": "69ea3ad992f61e4115dcd8ed",
+            "type": "prp",
+            "asset": "snacks",
+            "_tags": []
+        },
+        {
+            "_id": "69ea3c187612b90e20cae897",
+            "type": "prp",
+            "asset": "trash",
+            "_tags": []
         }
     ]
 }
